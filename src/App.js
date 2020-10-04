@@ -20,7 +20,8 @@ const App = props => {
         {name:'Jesus E.', age: 48},
         {name: 'Elisa', age: 9},
         {name: 'Camila', age: 39}
-      ]
+      ], 
+      otherState: personState.otherState
     });
     };
   
